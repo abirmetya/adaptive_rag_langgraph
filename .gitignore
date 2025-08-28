@@ -2,3 +2,4 @@
 .env
 .chroma/
 *.pyc
+__pycache__/
