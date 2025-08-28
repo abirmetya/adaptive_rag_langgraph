@@ -22,3 +22,7 @@ adaptive-rag/
 │── notebooks/ # experiments and demos
 │── tests/ # unit tests
 │── README.md # project documentation
+
+## ⚙️ Setup
+1. Clone the repository:
+2. Create a virtual environment and install dependencies:
